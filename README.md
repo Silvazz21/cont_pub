@@ -1,3 +1,3 @@
 # Research paper in Public Accounting
 
-Data set and Jupyter NB
+Data and Jupyter NB
